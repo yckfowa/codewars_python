@@ -1,2 +1,2 @@
 # codewars_python
-codewars solution and practice for python 3 
+codewars practice for python 3 
